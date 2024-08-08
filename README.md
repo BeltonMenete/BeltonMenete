@@ -19,12 +19,12 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqkibozzdcacdycaddtde5ezza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=8a33d9&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-  <b>⚡ 𝗥𝗲𝗰𝗲𝗻𝘁 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆</b> <br>
+<b>⚡ 𝗥𝗲𝗰𝗲𝗻𝘁 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆</b> <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beltonmenete&color=blueviolet" alt="Thanks to Jesus Christ" />
 </p>
 
 <summary>𝗠𝗬 𝗧𝗼𝗼𝗹𝗕𝗼𝘅 </summary> <br>
 
-| JS/TS | HTML5 | CSS3| Vue.JS | .Net | C# | Postgres | MSSQLS | Git | Azure |
+| JS/TS | HTML5 | CSS3| Vue JS | .Net | C# | Postgres | MSSQLS | Git | Azure |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="TypeScript "  alt="Typescript" width="50" height="50"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Dotnet "  alt="Dotnet" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="mpl" alt="mpl" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="mpl" alt="mpl" width="55" height="55"/>|
