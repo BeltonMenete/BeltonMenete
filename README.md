@@ -23,7 +23,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beltonmenete&color=blueviolet" alt="Thanks to Jesus Christ" />
 </p>
 
-<summary>𝗠𝗬 𝗧𝗼𝗼𝗹𝗕𝗼𝘅 </summary> <br>
+<summary>𝗠𝘆 𝗧𝗼𝗼𝗹𝗕𝗼𝘅 </summary> <br>
 
 | JS/TS | HTML5 | CSS3| Vue JS | .Net | C# | Postgres | MSSQLS | Git | Azure |
 |----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
