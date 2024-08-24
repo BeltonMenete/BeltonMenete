@@ -17,9 +17,9 @@
  
 #### 𝗟𝗶𝘀𝘁𝗲𝗻𝗶𝗻𝗴 𝘁𝗼 🎧
 
-<a href="https://beltonmenete.pythonanywhere.com/link" >
+<a href="https://BeltonAlberto.pythonanywhere.com/link">
   <img
-    src="https://beltonmenete.pythonanywhere.com?theme=dark"
+    src="https://BeltonAlberto.pythonanywhere.com"
     alt="Current Spotify Song"
   />
 </a>
