@@ -7,7 +7,7 @@
 🌍 𝗜'𝗺 𝗺𝗼𝘀𝘁𝗹𝘆 𝗮𝗰𝘁𝗶𝘃𝗲 𝘄𝗶𝘁𝗵𝗶𝗻 𝘁𝗵𝗲 **.𝗡𝗘𝗧 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆** </br>
 💅 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗫𝗶𝘁𝗶𝗾𝘂𝗲 𝗔𝗣𝗣 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
 🇲🇿 &nbsp;𝗕𝗼𝗿𝗻 𝗶𝗻 𝗚𝗮𝘇𝗮, 𝗠𝗼𝘇𝗮𝗺𝗯𝗶𝗾𝘂𝗲
-<h4> 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲 <img src = "./hello-olaf.gif" width = 30px> </h4> <!-- https://github.com/badges/shields -->
+<h4><img src = "./hello-olaf.gif" width = 30px> 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲  </h4> <!-- https://github.com/badges/shields -->
 <div align="left">
    <a href="https://www.linkedin.com/in/beltonmenete"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="/https://www.youtube.com/@devalberto"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
