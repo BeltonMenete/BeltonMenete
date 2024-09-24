@@ -1,3 +1,4 @@
+<a href="https://www.linkedin.com/in/beltonmenete"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 ### 𝗛𝗲𝘆, 𝗜'𝗺 𝗕𝗲𝗹𝘁𝗼𝗻! <img src = "./hand-gif.gif" width = 20px>
 
 #### 𝗔 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
@@ -9,8 +10,7 @@
 <h4> 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲 <img src = "./hello-olaf.gif" width = 30px> </h4> <!-- https://github.com/badges/shields -->
 <div align="left">
    <a href="https://www.linkedin.com/in/beltonmenete"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</br>
-    <a href="/https://www.youtube.com/@devalberto"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+   <a href="/https://www.youtube.com/@devalberto"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div
 </br>
 
@@ -30,13 +30,13 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="TypeScript "  alt="Typescript" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="Dotnet "  alt="Dotnet" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="Numpy" alt="Numpy" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="sklearn" alt="sklearn" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="mpl" alt="mpl" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="mpl" alt="mpl" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="mpl" alt="mpl" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="mpl" alt="mpl" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="mpl" alt="mpl" width="55" height="55"/> |
 <div>
   <img
-    width="83%"
+    width="100%"
     alt="Gradients"
     src="Images/Miscellaneous/Gradients.svg"
   />
 </div>
 <img
-  width="83%"
+  width="100%"
   alt="Rainbow"
   src="Images/Miscellaneous/Rainbow.gif"
 />
