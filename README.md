@@ -9,7 +9,6 @@
 <h4> 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲 <img src = "./hello-olaf.gif" width = 30px> </h4> <!-- https://github.com/badges/shields -->
 <div align="left">
    <a href="https://www.linkedin.com/in/beltonmenete"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://x.com/Belton_Menete/"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=whit"></a> 
 </br>
     <a href="/https://www.youtube.com/@devalberto"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div
