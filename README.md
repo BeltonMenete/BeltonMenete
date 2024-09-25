@@ -23,7 +23,8 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqkibozzdcacdycaddtde5ezza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=932cd6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 <b> 𝗥𝗲𝗰𝗲𝗻𝘁 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆</b> <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=beltonmenete&color=blueviolet" alt="Thanks to Jesus Christ" />
+<p align="left"> 
+  <img src="https://visitcount.itsvg.in/api?id=BeltonMenete&icon=3&color=11" alt="Thanks to Jesus Christ" />
 </p>
     </td>
     <td style="width: 30%; text-align: center; vertical-align: top;">
@@ -54,8 +55,17 @@
   
 </table>
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+### 𝗚𝗶𝘁𝗛𝘂𝗯 Stats:
+![](https://github-readme-stats.vercel.app/api?username=BeltonMenete&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=BeltonMenete&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeltonMenete&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=BeltonMenete&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=BeltonMenete&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
