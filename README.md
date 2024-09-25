@@ -26,7 +26,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beltonmenete&color=blueviolet" alt="Thanks to Jesus Christ" />
 </p>
     </td>
-    <td align="center">
+    <td align="center" style="width: 30%;">
       <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" width="300px" alt="Image description">
     </td>
   </tr>
