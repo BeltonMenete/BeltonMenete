@@ -1,4 +1,4 @@
-<table style="width: 100%; height: 100%; table-layout: fixed;">
+<table align="center" style="width: 100%; height: 100%; table-layout: fixed;">
   <tr style="height: 100%;">
     <td  style="width: 70%; vertical-align: top;">
       <a href="https://www.linkedin.com/in/beltonmenete"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
