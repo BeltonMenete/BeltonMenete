@@ -27,7 +27,7 @@
 </p>
     </td>
     <td align="center" style="width: 20%;">
-      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="width: 100%;" alt="Image description">
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="max-width: 50%; height: auto;" alt="Image description">
     </td>
   </tr>
   <tr>
