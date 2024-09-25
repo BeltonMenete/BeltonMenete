@@ -1,6 +1,6 @@
-<table>
-  <tr>
-    <td  style="width: 80%;" vertical-align: top;">
+<table style="width: 100%; height: 100%; table-layout: fixed;">
+  <tr style="height: 100%;">
+    <td  style="width: 70%; vertical-align: top;">
       <a href="https://www.linkedin.com/in/beltonmenete"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 
 ### 𝗛𝗲𝘆, 𝗜'𝗺 𝗕𝗲𝗹𝘁𝗼𝗻! <img src = "./hand-gif.gif" width = 20px>
@@ -26,8 +26,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beltonmenete&color=blueviolet" alt="Thanks to Jesus Christ" />
 </p>
     </td>
-    <td align="center" style="width: 20%;">
-      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="max-width: 50%; height: auto;" alt="Image description">
+    <td style="width: 30%; text-align: center; vertical-align: top;">
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="height: 100vh; width: auto;" alt="Image description">
     </td>
   </tr>
   <tr>
