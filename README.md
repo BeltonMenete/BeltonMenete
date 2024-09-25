@@ -2,6 +2,7 @@
   <tr>
     <td  style="width: 70%;">
       <a href="https://www.linkedin.com/in/beltonmenete"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+
 ### 𝗛𝗲𝘆, 𝗜'𝗺 𝗕𝗲𝗹𝘁𝗼𝗻! <img src = "./hand-gif.gif" width = 20px>
 
 #### 𝗔 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
