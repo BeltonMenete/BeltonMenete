@@ -57,7 +57,6 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/beltonmenete) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Belton-Alberto-Menete) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BeltonMenete) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16977275) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/beltonalberto)
 ### 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=beltonmenete&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=beltonmenete&theme=aura&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=beltonmenete&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repositories
