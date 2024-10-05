@@ -62,7 +62,7 @@
 ### 🔝 Top Contributed Repositories
 ![](https://github-contributor-stats.vercel.app/api?username=beltonmenete&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
-![](https://readme-daily-quotes.vercel.app/api?theme=algolia&font=delius&author=John&quote=For%20God%20so%20loved%20the%20world%20that%20he%20gave%20his%20one%20and%20only%20Son%2C%20that%20whoever%20believes%20in%20him%20shall)
+![](https://readme-daily-quotes.vercel.app/api?theme=algolia&font=delius&author=John&quote=For%20God%20so%20loved%20the%20world%20that%20he%20gave%20his%20one%20and%20only%20Son%2C%20that%20whoever%20believes%20in%20him%20shall%20not%20perish%20but%20have%20eternal%20life).
 
 
 ### 💰 u can help me by Donating!
