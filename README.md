@@ -21,11 +21,6 @@
 #### 𝐕𝐢𝐛𝐢𝐧𝐠 𝐭𝐨 🎧 
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqkibozzdcacdycaddtde5ezza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=932cd6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-<b> 𝗥𝗲𝗰𝗲𝗻𝘁 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝘆</b> <br>
-<p align="left"> 
-  <img src="https://visitcount.itsvg.in/api?id=BeltonMenete&icon=3&color=11" alt="Thanks to Jesus Christ" />
-</p>
     </td>
     <td style="width: 30%; text-align: center; vertical-align: top;">
       <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="height: 100vh; width: auto;" alt="Image description">
