@@ -7,7 +7,7 @@
 
 #### 𝗔 𝗙𝘂𝗹𝗹-𝗦𝘁𝗮𝗰𝗸 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿
 
-⚙️ 𝗜 𝘂𝘀𝗲 𝗱𝗮𝗶𝗹𝘆: `.𝗵𝘁𝗺𝗹`, `.𝗰𝘀𝘀`, `.𝗷𝘀`, `.𝘁𝘀`,`.𝘃𝘂𝗲`, `.𝘁𝘀𝘅`, `.𝗰𝘀`,`.𝗱𝗮𝗿𝘁`, `.razor`,`.java` </br>
+⚙️ 𝗜 𝘂𝘀𝗲 𝗱𝗮𝗶𝗹𝘆: .𝗵𝘁𝗺𝗹, .𝗰𝘀𝘀, .𝗷𝘀, .𝘁𝘀,.𝘃𝘂𝗲, .𝘁𝘀𝘅, .𝗰𝘀,.𝗱𝗮𝗿𝘁, .razor,.java </br>
 🌍 𝗜'𝗺 𝗺𝗼𝘀𝘁𝗹𝘆 𝗮𝗰𝘁𝗶𝘃𝗲 𝘄𝗶𝘁𝗵𝗶𝗻 𝘁𝗵𝗲 **.𝗡𝗘𝗧 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆** </br>
 💅 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗫𝗶𝘁𝗶𝗾𝘂𝗲 𝗔𝗣𝗣 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="20"> </br>
 🇲🇿 &nbsp;𝗕𝗼𝗿𝗻 𝗶𝗻 𝗚𝗮𝘇𝗮, 𝗠𝗼𝘇𝗮𝗺𝗯𝗶𝗾𝘂𝗲
@@ -23,7 +23,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqkibozzdcacdycaddtde5ezza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=932cd6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
     </td>
     <td style="width: 30%; text-align: center; vertical-align: top;">
-      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style=" heitht: 100vh;width: auto;" alt="Image description">
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style="height: 100vh; width: auto;" alt="Image description">
     </td>
   </tr>
   <tr>
@@ -62,4 +62,3 @@
 
 ### 💰 u can help me by Donating!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bymeneted) 
-
