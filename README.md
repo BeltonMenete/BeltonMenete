@@ -23,7 +23,7 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31hqkibozzdcacdycaddtde5ezza&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=932cd6&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
     </td>
     <td style="width: 30%; text-align: center; vertical-align: top;">
-      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style=" height:100vh; max-height: 100vh; width: auto;" alt="Image description">
+      <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" style=" max-height: 100vh; width: auto;" alt="Image description">
     </td>
   </tr>
   <tr>
