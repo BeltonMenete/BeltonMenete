@@ -60,5 +60,5 @@
 ![](https://readme-daily-quotes.vercel.app/api?theme=algolia&font=delius&author=John&quote=For%20God%20so%20loved%20the%20world%20that%20he%20gave%20his%20one%20and%20only%20Son%2C%20that%20whoever%20believes%20in%20him%20shall%20not%20perish%20but%20have%20eternal%20life).
 
 
-### 💰 u can help me by Donating!
+### 💰 Let's drink some coffee!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bymeneted) 
