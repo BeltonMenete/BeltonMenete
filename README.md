@@ -13,7 +13,7 @@
 🇲🇿 &nbsp;𝗕𝗼𝗿𝗻 𝗶𝗻 𝗚𝗮𝘇𝗮, 𝗠𝗼𝘇𝗮𝗺𝗯𝗶𝗾𝘂𝗲
 <h4><img src = "./hello-olaf.gif" width = 30px> 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲  </h4> <!-- https://github.com/badges/shields -->
 <div align="left">
-   <a href="https://www.linkedin.com/in/beltonmenete"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.linkedin.com/in/beltonalberto"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://www.youtube.com/@devalberto"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div
 </br>
@@ -52,12 +52,8 @@
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/beltonmenete) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Belton-Alberto-Menete) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BeltonMenete) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16977275) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/beltonalberto)
 ### 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=beltonmenete&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=beltonmenete&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repositories
-![](https://github-contributor-stats.vercel.app/api?username=beltonmenete&limit=5&theme=aura&combine_all_yearly_contributions=true)
-
-![](https://readme-daily-quotes.vercel.app/api?theme=algolia&font=delius&author=John&quote=For%20God%20so%20loved%20the%20world%20that%20he%20gave%20his%20one%20and%20only%20Son%2C%20that%20whoever%20believes%20in%20him%20shall%20not%20perish%20but%20have%20eternal%20life).
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeltonMenete&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://readme-daily-quotes.vercel.app/api?theme=aura&font=delius&author=John&quote=For%20God%20so%20loved%20the%20world%20that%20he%20gave%20his%20one%20and%20only%20Son%2C%20that%20whoever%20believes%20in%20him%20shall%20not%20perish%20but%20have%20eternal%20life).
 
 
 ### 💰 Let's drink some coffee!
