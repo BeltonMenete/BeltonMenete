@@ -48,13 +48,11 @@
   </tr>
 </table>
 
-### 📲 Other Socials
+### 📲 Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://www.behance.net/beltonmenete) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Belton-Alberto-Menete) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BeltonMenete) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16977275) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/beltonalberto)
 ### 📈 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=beltonmenete&theme=aura&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeltonMenete&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://readme-daily-quotes.vercel.app/api?theme=aura&font=delius&author=John&quote=For%20God%20so%20loved%20the%20world%20that%20he%20gave%20his%20one%20and%20only%20Son%2C%20that%20whoever%20believes%20in%20him%20shall%20not%20perish%20but%20have%20eternal%20life).
-
 
 ### 💰 Let's drink some coffee!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bymeneted) 
