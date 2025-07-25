@@ -1,7 +1,7 @@
 <table align="center" style="width: 100%; height: 100%; table-layout: fixed;">
   <tr style="height: 100%;">
     <td  style="width: 70%; vertical-align: top;">
-      <a href="https://devalberto.x/"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+      <a href="https://codebelton.us/"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 
 ### 𝗛𝗲𝘆, 𝗜'𝗺 𝗕𝗲𝗹𝘁𝗼𝗻! <img src = "./hand-gif.gif" width = 20px>
 
@@ -13,7 +13,7 @@
 🇲🇿  𝗕𝗼𝗿𝗻 𝗶𝗻 𝗚𝗮𝘇𝗮, 𝗠𝗼𝘇𝗮𝗺𝗯𝗶𝗾𝘂𝗲
 <h4><img src = "./hello-olaf.gif" width = 30px> 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲  </h4> <div align="left">
    <a href="https://www.linkedin.com/in/beltonalberto"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://www.youtube.com/@devalberto"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+   <a href="https://www.youtube.com/@codebelton"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div
 </br>
 
