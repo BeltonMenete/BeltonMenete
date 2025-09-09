@@ -29,7 +29,7 @@
 
 
 | HTML5 | CSS3 | TS | React | C# | .NET | Node | NestJS | PGRES | MSSQL | GIT | AWS |
-| :---: | :--: | :-: | :-: | :---: | :---: | :--: | :--: | :----: | :---: | :---: | :-: | :---: |
+| :---: | :--: | :-: | :---: | :---: | :--: | :--: | :----: | :---: | :---: | :-: | :---: |
 | <img src="./icons/HTML.svg" width="48"> | <img src="./icons/CSS.svg" width="48"> | <img src="./icons/TypeScript.svg" width="48"> | <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" title="Pandas" alt="Pandas" width="55" height="55"/> | <img src="./icons/CS.svg" width="48"> | <img src="./icons/DotNet.svg" width="48"> | <img src="./icons/NodeJS-Dark.svg" width="48"> | <img src="./icons/NestJS-Dark.svg" width="48"> | <img src="./icons/PostgreSQL-Dark.svg" width="48"> | <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="mpl" alt="mpl" width="40" height="40"/> | <img src="./icons/Git.svg" width="48"> | <img src="./icons/AWS-Dark.svg" width="48"> |
 <div>
   <img
