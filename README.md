@@ -13,7 +13,7 @@
 🇲🇿  𝗕𝗼𝗿𝗻 𝗶𝗻 𝗚𝗮𝘇𝗮, 𝗠𝗼𝘇𝗮𝗺𝗯𝗶𝗾𝘂𝗲
 <h4><img src = "./hello-olaf.gif" width = 30px> 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲  </h4> <div align="left">
    <a href="https://www.linkedin.com/in/beltonalberto"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://www.youtube.com/@codebelton"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+   <a href="https://www.youtube.com/@menetecodes"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div
 </br>
 
