@@ -41,7 +41,7 @@
 <img
   width="100%"
   alt="Rainbow"
-  src="Images/Miscellaneous/Rainbow.gif"
+  src="Images/Miscellaneous/Rainbow.gif">
 </td>
   </tr>
 </table>
