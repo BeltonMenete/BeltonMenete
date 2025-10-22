@@ -38,10 +38,6 @@
     src="Images/Miscellaneous/Gradients.svg"
   />
 </div>
-<img
-  width="100%"
-  alt="Rainbow"
-  src="Images/Miscellaneous/Rainbow.gif">
 </td>
   </tr>
 </table>
