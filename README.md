@@ -25,7 +25,7 @@
     </td>
   </tr>
   <tr>
-   <td colspan="2">    <h4> 𝗠𝘆 𝗧𝗼𝗼𝗹𝗕𝗼x                                                                                                                                                                                       <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> </h4> <br>
+   <td colspan="2">    <h4> My Toolbox                                                                                                                                                                                      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> </h4> <br>
 
 
 |HTML| CSS3 | TS | React | C# | .NET | Node | NestJS | SQL | GIT | AWS |
@@ -47,5 +47,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=beltonmenete&theme=aura&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BeltonMenete&theme=aura&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### 💰 Let's drink some coffee!
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bymeneted)
