@@ -1,7 +1,7 @@
 <table align="center" style="width: 100%; height: 100%; table-layout: fixed;">
   <tr style="height: 100%;">
     <td  style="width: 70%; vertical-align: top;">
-      <a href="https://menete.eu/"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+      <a href="https://www.menete.eu/"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 
 ### 𝗛𝗲𝘆, 𝗜'𝗺 𝗕𝗲𝗹𝘁𝗼𝗻! <img src = "./hand-gif.gif" width = 20px>
 
