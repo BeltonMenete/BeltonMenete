@@ -10,14 +10,15 @@
 🛠️ 𝗜 𝘂𝘀𝗲 𝗱𝗮𝗶𝗹𝘆 `.𝗵𝘁𝗺𝗹` `.𝗰𝘀𝘀` `.𝗷𝘀`  `.𝘁𝘀` `.𝘃𝘂𝗲` `.𝘁𝘀𝘅` <br/>`.𝗰𝘀` `.sql` `.go` `.cshtml` `.kotlin`  </br>
 🛠️ 𝗜'𝗺 𝗺𝗼𝘀𝘁𝗹𝘆 𝗮𝗰𝘁𝗶𝘃𝗲 𝘄𝗶𝘁𝗵𝗶𝗻 𝘁𝗵𝗲 **.𝗡𝗘𝗧 𝗰𝗼𝗺𝗺𝘂𝗻𝗶𝘁𝘆** </br>
 🛠️ 𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗫𝗶𝘁𝗶𝗾𝘂𝗲 𝗔𝗣𝗣 <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="20"> </br>
-<h4><img src = "./hello-olaf.gif" width = 30px> 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲  </h4> <div align="left">
-   <a href="https://www.linkedin.com/in/beltonalberto"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-   <a href="https://www.youtube.com/@menetecodes"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-</div
 </br>
 
 #### 𝐕𝗶𝗯𝗶𝗻𝐠 𝘁𝗼 🎧 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31y3te5wqmnyrhy42jzadi2roz7u&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<h4><img src = "./hello-olaf.gif" width = 30px> 𝗙𝗶𝗻𝗱 𝗺𝗲 𝗲𝗹𝘀𝗲𝘄𝗵𝗲𝗿𝗲  </h4> <div align="left">
+   <a href="https://www.linkedin.com/in/beltonalberto"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+   <a href="https://www.youtube.com/@menetecodes"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</div
     </td>
     <td style="width:%; text-align: center; vertical-align: top;">
       <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style=" max-height: auto; width: 80%;" alt="Image description">
