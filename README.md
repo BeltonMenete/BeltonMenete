@@ -1,7 +1,4 @@
-<table align="center" style="width: 100%; height: 100%; table-layout: fixed;">
-  <tr style="height: 100%;">
-    <td  style="width: 70%; vertical-align: top;">
-      <a href="https://www.menete.dev/site"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+<a href="https://www.menete.dev/site"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 
 ### 𝗛𝗲𝘆, 𝗜'𝗺 𝗕𝗲𝗹𝘁𝗼𝗻! <img src = "./hand-gif.gif" width = 20px>
 
@@ -19,28 +16,13 @@
    <a href="https://www.linkedin.com/in/beltonalberto"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
    <a href="https://www.youtube.com/@menetecodes"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </div
-    </td>
-    <td style="width:%; text-align: center; vertical-align: top;">
-      <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" style=" max-height: auto; width: 80%;" alt="Image description">
-    </td>
-  </tr>
-  <tr>
-   <td colspan="2">    <h4> My Toolbox                                                                                                                                                                                      <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> </h4> <br>
+                                                                                                                                                                                   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> </h4> <br>
 
 
 |HTML| CSS | TS | React | C# | .NET | Node | NestJS | SQL | GIT | AWS |
 | :--:| :--: | :-: | :---: | :---: | :--: | :--: | :----: | :---: | :---: | :---: |
 | [<img src="./icons/HTML.svg" width="48">](https://developer.mozilla.org/en-US/docs/Web/HTML) |[<img src="./icons/CSS.svg" width="48">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="./icons/TypeScript.svg" width="48">](https://www.typescriptlang.org/) |[ <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" title="Pandas" alt="Pandas" width="50" height="50"/>](https://react.dev/) | [<img src="./icons/CS.svg" width="48">](https://learn.microsoft.com/en-us/dotnet/csharp/) | [<img src="./icons/DotNet.svg" width="48">](https://dotnet.microsoft.com/) |[ <img src="./icons/NodeJS-Dark.svg" width="48">](https://nodejs.org/) |[ <img src="./icons/NestJS-Dark.svg" width="48">](http://nestjs.com/) |[ <img src="./icons/PostgreSQL-Dark.svg" width="48">](https://www.postgresql.org/) | [<img src="./icons/Git.svg" width="48">](https://git-scm.com/) | [<img src="./icons/AWS-Dark.svg" width="48">](https://aws.amazon.com/) |
-<div>
-  <img
-    width="100%"
-    alt="Gradients"
-    src="Images/Miscellaneous/Gradients.svg"
-  />
-</div>
-</td>
-  </tr>
-</table>
+
 
 
 
