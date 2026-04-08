@@ -1,4 +1,4 @@
-<a href="https://www.menete.dev"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
+<a href="https://www.menete.dev/connect"> <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"></a>
 
 ### 𝗛𝗲𝘆, 𝗜'𝗺 𝗕𝗲𝗹𝘁𝗼𝗻! <img src = "./hand-gif.gif" width = 20px>
 
